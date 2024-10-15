@@ -77,11 +77,4 @@
       </plugins>
     </pluginManagement>
   </build>
-        <repositories>
-            <repository>
-                <id>nexus</id>
-                <name>nexus-project</name>
-                <url>http://54.252.64.134:8081//repository/nexus-project/</url>
-            </repository>
-        </repositories>
 </project>
