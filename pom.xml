@@ -81,7 +81,7 @@
             <repository>
                 <id>nexus</id>
                 <name>nexus-project</name>
-                <url>http://52.65.26.70:8081/repository/nexus-project/</url>
+                <url>http://54.252.64.134:8081//repository/nexus-project/</url>
             </repository>
         </repositories>
 </project>
